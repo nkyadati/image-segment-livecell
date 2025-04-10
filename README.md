@@ -108,7 +108,7 @@ image-segment-livecell/
       ├── test
 ```
 
-You can download the trained model from Google Drive and place it in the folder: `image-segment-livecell`. You should see a folder structure like below:
+You can download the trained model from [Google Drive](https://drive.google.com/drive/folders/1ocRpsT0ndKx3kUKq3_2Ty7rXpWFyvh4M?usp=drive_link) and place it in the folder: `image-segment-livecell`. You should see a folder structure like below:
 
 ```
 image-segment-livecell/
