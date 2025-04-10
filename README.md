@@ -7,7 +7,7 @@ Built with full support for training, evaluation, visualization, and API deploym
 
 ## What is LIVECell?
 
-[LIVECell](https://www.nature.com/articles/s41592-021-01249-6) is a large-scale dataset for label-free segmentation of cells in microscopy images.
+[LIVECell](https://github.com/sartorius-research/LIVECell) is a large-scale dataset for label-free segmentation of cells in microscopy images.
 
 Key properties:
 
