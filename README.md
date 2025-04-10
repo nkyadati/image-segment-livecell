@@ -32,7 +32,6 @@ Key properties:
 - ✅ Visualizations for 10 random test images
 - ✅ Supports both CLI and headless environments (e.g., AWS EC2, Colab)
 - ✅ FastAPI-based inference endpoint
-- ✅ Optional ONNX export + inference (for lightweight deployment)
 - ✅ Dockerized for reproducibility
 
 ---
@@ -164,11 +163,11 @@ Plots and logs are saved automatically.
 
 | **Metric**              | **Score**   |
 |-------------------------|-------------|
-| ✅ **Mean IoU**          | `0.85`     |
-| 🎯 **Dice Score**        | `0.92`     |
-| 📌 **Pixel Accuracy**    | `0.95`     |
-| 🎯 **Mean Pixel Accuracy** | `0.95`  |
-| 🧪 **Boundary Dice Score** | `0.57` |
+| **Mean IoU**          | `0.85`     |
+| **Dice Score**        | `0.92`     |
+| **Pixel Accuracy**    | `0.95`     |
+| **Mean Pixel Accuracy** | `0.95`  |
+| **Boundary Dice Score** | `0.57` |
 
 ---
 
